@@ -1,0 +1,15 @@
+{
+  "name": "html-to-markdown",
+  "version": "1.0.0",
+  "description": "Converts HTML to Markdown in json-files.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Björn Rixman",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "to-markdown": "^3.0.3"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "a": "<h1>Hello world</h1><p>Lorem</p><ul><li>Lorem</li><li>Ipsum</li><li>Dolor sit amet</li></ul>",
+  "b": "<p>Hello there, here's a <a href=\"https://mindoktor.se/\">Link™</a>.</p>",
+  "c": "Regular string containing some html, should be wrapped in <code>&lt;p&gt;</code> tags.",
+  "d": "Plain text"
+}
